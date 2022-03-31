@@ -20,7 +20,7 @@ Program to implement the linear regression using gradient descent.
 Developed by: Koduru Sanath Kumar Reddy
 RegisterNumber:  212221240024
 */
-```
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -55,6 +55,7 @@ plt.plot(loss)
 plt.xlabel("Iterations")
 plt.ylabel("loss")
 plt.show()
+```
 
 ## Output:
 ![](1.png)
