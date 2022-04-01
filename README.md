@@ -58,9 +58,10 @@ plt.xlabel("Iterations")
 plt.ylabel("loss")
 plt.show()
 ```
-
 ## Output:
 ![](1.png)
+
+
 ![](2.png)
 
 
